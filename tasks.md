@@ -7,8 +7,8 @@ Track your progress here. Update the status as you complete each chapter.
 | **Day 1** | **Variables & Data Types**         | ✅ Completed     | `Variables.kt`         |
 | **Day 2** | **Control Flow (If, When, Loops)** | ✅ Completed     | `ControlFlow.kt`       |
 | **Day 3** | **Functions & Parameters**         | ✅ Completed     | `Functions.kt`         |
-| **Day 4** | **Classes & Objects**              | 🏗️ In Progress | `ClassesAndObjects.kt` |
-| Day 5     | Inheritance & Interfaces           | ⏳ To Do         | -                      |
+| **Day 4** | **Classes & Objects**              | ✅ Completed     | `ClassesAndObjects.kt` |
+| **Day 5** | **Inheritance & Interfaces**           | 🏗️ In Progress | `InheritanceAndInterfaces.kt` |
 | Day 6     | Null Safety (Deep Dive)            | ⏳ To Do         | -                      |
 | Day 7     | Collections (Lists, Sets, Maps)    | ⏳ To Do         | -                      |
 | Day 8     | Functional Programming (Lambdas)   | ⏳ To Do         | -                      |
@@ -22,11 +22,11 @@ Track your progress here. Update the status as you complete each chapter.
 
 ---
 
-## 📝 Current Task (Day 4)
+## 📝 Current Task (Day 5)
 
-- [ ] Complete `EXERCISE 1: Simple Class`
-- [ ] Complete `EXERCISE 2: Constructor Parameters`
-- [ ] Complete `EXERCISE 3: Custom Properties`
+- [ ] Complete `EXERCISE 1: Simple Inheritance`
+- [ ] Complete `EXERCISE 2: Method Overriding`
+- [ ] Complete `EXERCISE 3: Interface Implementation`
 - [ ] Run `./gradlew :playground:run` to verify results.
 
 ---

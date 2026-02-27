@@ -24,6 +24,7 @@ When this skill is triggered (e.g., the user mentions `@tasks.md` and asks to ch
 - Write an engaging, motivational "viral" style tweet summarizing what the user learned in the current chapter.
 - Include the day number (e.g., "Day X/15 of my Kotlin journey! 🚀").
 - List key concepts learned.
+- Do not use any hashtags
 
 ## 5. Progress Check
 - Review the `tasks.md` file to update the status of the completed chapter to `✅ Completed`.
